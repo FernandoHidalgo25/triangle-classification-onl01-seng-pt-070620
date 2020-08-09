@@ -1,4 +1,5 @@
 class Triangle
+  attr_accessor :s1,:s2, :s3, :isosceles, :equilateral, :scalene
 def initialize(s1, s2, s3)
 
   
